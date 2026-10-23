@@ -1,7 +1,7 @@
 # Pertemuan 09 - List dan Pengolahan Data Numerik
 
 **Nama:** Dwi Reva Rahmadiniyah  
-**NIM:** 2225250070 
+**NIM:** 2225250070
 **Kelas:** 3E
 
 ## Tujuan
